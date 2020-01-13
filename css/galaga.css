@@ -1,0 +1,23 @@
+#canvas {
+  border: 1px solid black;
+  display: flex;
+  margin: 0 auto;
+
+}
+
+.title {
+  text-align: center;
+}
+
+.buttonPanel {
+  display: flex;
+  width: 1026px;
+  margin: 0 auto;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.buttonPanel button {
+  font-size: 20px;
+
+}
